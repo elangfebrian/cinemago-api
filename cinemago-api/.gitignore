@@ -1,0 +1,10 @@
+# Kredensial database lokal (jangan di-commit!)
+api/config.local.php
+.env
+
+# File sistem & editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
